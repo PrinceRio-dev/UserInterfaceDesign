@@ -1,5 +1,8 @@
 # UserInterfaceDesign
 
+The main goal was to make a user centered design which can be helpful for the user, we have also considered Norman's principles while making this design.
+We have also tested our design using usability testing principles.
+
 The given attached file has midium fidelity prototype, and it was a team project.
 
 We have developed a user interface which provides a COVID-19 self assessment, BC provincial
